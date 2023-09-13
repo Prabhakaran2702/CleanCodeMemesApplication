@@ -1,0 +1,35 @@
+{
+  "title": "Kategorier",
+  "topics": [
+      {
+        "title": "UAE"
+        "topics": [
+          {
+            "title": "Cricket",
+            "matching": "C6910D21-40DC-4694-9A22-4A54D6E149AA",
+            "property": "ConceptSectionUuids"
+          },
+          {
+            "title": "Year of the 50th",
+            "matching": "1e0f118f-badd-4206-9e11-a3d66a9fe557",
+            "property": "ConceptSectionUuids"
+          },
+          {
+            "title": "Government",
+            "matching": "1AA3B43B-7CC5-4BCB-83B6-5F60BD607FC2",
+            "property": "ConceptSectionUuids"
+          },
+          {
+            "title": "Healthcare",
+            "matching": "B4A52445-36DF-4754-BD5B-0AB042AFF03E",
+            "property": "ConceptSectionUuids"
+          },
+          {
+            "title": "Legal",
+            "matching": "B4A8445D-CC80-4862-9F05-BF4462A56582",
+            "property": "ConceptSectionUuids"
+          }
+        ]
+      }
+  ]
+}
